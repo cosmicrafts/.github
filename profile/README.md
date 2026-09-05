@@ -38,8 +38,8 @@ Cosmicrafts is a space RTS running **entirely on the Internet Computer**: gasles
 | [Adventures-Bevy](https://github.com/cosmicrafts/Adventures-Bevy) | Bevy/Rust game client with progression pipeline (XP, equipment, skill nodes) |
 | [Star-Drifter](https://github.com/cosmicrafts/Star-Drifter) | Space drifting game built with Bevy |
 | [Cosmicrafts_Quantum](https://github.com/cosmicrafts/Cosmicrafts_Quantum) | Photon Quantum multiplayer prototype (C#) |
-| [Tournament-Poll](https://github.com/cosmicrafts/Tournament-Poll) | On-chain tournament polling (Motoko) |
-| [Dashboard](https://github.com/cosmicrafts/Dashboard) | Dashboard for backend canister calls |
+| [Rush](https://github.com/cosmicrafts/Rush) | Cosmicrafts Rush — browser game (Vue) |
+| [Cosmicrafts3D-2021-DSCVR-Hackathon](https://github.com/cosmicrafts/Cosmicrafts3D-2021-DSCVR-Hackathon) | 3D prototype that started it all (DSCVR Hackathon, Unity/C#) |
 
 ## Community
 
