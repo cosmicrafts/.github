@@ -4,8 +4,6 @@
 
 Cosmicrafts is a space real-time strategy game by [World of Unreal](https://github.com/worldofunreal). Fleet battles, ranked ladders, missions and achievements, all tied to a Web3 economy where items and currency are assets players own. The alpha is live and the game is free to play.
 
-![Cosmicrafts Adventures](https://worldofunreal.com/assets/adventures-3d.webp)
-
 [Play at cosmicrafts.com](https://cosmicrafts.com)
 
 ## Open source
